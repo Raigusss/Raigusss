@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 Tentang gue
+##  Tentang gue
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 </div>
 ---
 
-### 🚀 Keahlian & Teknologi
+###  Keahlian & Teknologi
 
 <div align="center">
   <br>
