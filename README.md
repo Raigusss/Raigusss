@@ -24,9 +24,9 @@
 
 <div align="center">
 
-<h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace;">
-  Lebih Dekat Denganku 
-</h3>
+<h2 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: 700; text-shadow: 0 0 10px rgba(199, 125, 255, 0.4);">
+  Lebih Dekat Denganku 👋
+</h2>
 
 <br>
 
