@@ -28,16 +28,24 @@
   Lebih Dekat Denganku 👋
 </h3>
 
+<!-- Paragraf 1 -->
 <p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
   Seorang Mahasiswa Ilmu Komputer Universitas Djuanda.
 </p>
 
+<!-- Paragraf 2 -->
 <p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
   My home is in Bogor, Jawa Barat.
 </p>
 
+<!-- Paragraf 3 -->
 <p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
-  Selalu ngulik web & mobile apps. Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
+  Selalu ngulik web & mobile apps.
+</p>
+
+<!-- Paragraf 4 -->
+<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
+  Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
 </p>
 
 </div>
