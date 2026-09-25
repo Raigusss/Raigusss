@@ -24,9 +24,9 @@
 
 <div align="center">
 
-<h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: 700; text-shadow: 0 0 10px rgba(199, 125, 255, 0.4);">
+<div style="color: #C77DFF; font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: bold; margin-bottom: 15px;">
   Lebih Dekat Denganku 👋
-</h3>
+</div>
 
 <br>
 
@@ -40,7 +40,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Selalu+ngulik+web+%26+mobile+apps." />
 
 <!-- Paragraf 4 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Kesalahan+itu+biasa%2C+Coding+selamanya%7E" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Error+is+Temporary%2C+Coffee+is+Eternal%7E+%E2%98%95" />
 
 </div>
 ---
