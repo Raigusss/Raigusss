@@ -22,20 +22,25 @@
 
 ## 💻 Tentang gue
 
-## 💻 Tentang gue
-
 <div align="center">
 
 <h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace;">
   Lebih Dekat Denganku 👋
 </h3>
 
-<div style="font-family: 'JetBrains Mono', monospace; font-size: 15px; line-height: 1.8; color: #C77DFF; max-width: 600px; margin: 0 auto;">
-  <p>Seorang Mahasiswa Ilmu Komputer Universitas Djuanda.</p>
-  <p>My home is in Bogor, Jawa Barat.</p>
-  <p>Selalu ngulik web & mobile apps.</p>
-  <p>Prinsip hidup: Error is Temporary, Coffee is Eternal~ ☕</p>
-</div>
+<br>
+
+<!-- Paragraf 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Seorang+Mahasiswa+Ilmu+Komputer+Universitas+Djuanda." />
+
+<!-- Paragraf 2 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=My+home+is+in+Bogor%2C+Jawa+Barat." />
+
+<!-- Paragraf 3 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Selalu+ngulik+web+%26+mobile+apps." />
+
+<!-- Paragraf 4 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Error+is+Temporary%2C+Coffee+is+Eternal%7E+%E2%98%95" />
 
 </div>
 ---
