@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Halo%2C+gue+Bagus+Raihan+Ali+%F0%9F%91%8B;Ngulik+web+dan+mobile+apps;Belajar+dulu%2C+error+kemudian+%F0%9F%98%85;Sedikit+demi+sedikit+jadi+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Halo%2C+gue+Bagus+Raihan+Ali+%F0%9F%91%8B;Ngulik+web+dan+mobile+apps;Belajar+dulu%2C+error+kemudian+%F0%9F%98%85;Sedikit+demi+demikit+jadi+project)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,33 +20,49 @@
 
 ---
 
-## Tentang gue
+## 💻 Tentang gue
 
 <div align="center">
 
-<!-- Animasi Teks Judul -->
-[![Tentang gue](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&width=450&lines=Lebih+Dekat+Denganku%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace;">
+  Lebih Dekat Denganku 👋
+</h3>
 
-<br>
-
-<!-- Animasi Deskripsi Diri -->
-[![Deskripsi Diri](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=6000&pause=1000&color=ffffff&center=true&vCenter=true&width=850&lines=Seorang+Mahasiswa+Ilmu+Komputer+yang+sedang+bersemangat+menguasai+dunia+IT;Fokus+utama%3A+Web+Development+%28Full-Stack%29+dan+Mobile+App+Development;Sangat+menikmati+proses+ngoprek%2C+belajar+hal+baru%2C+dan+bertemu+error;Prinsip%3A+Error+is+Temporary%2C+Coffee+is+Eternal~)](https://git.io/typing-svg)
+<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px;">
+  Seorang Mahasiswa Ilmu Komputer di Bogor yang bersemangat menguasai web & mobile apps.<br>
+  Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
+</p>
 
 </div>
 
 ---
 
-### Keahlian & Teknologi
+### 🚀 Keahlian & Teknologi
 
 <div align="center">
   <br>
-  <!-- Kumpulan Ikon Keahlian dengan Animasi Fade-In -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1F2937&animation=fadeIn" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2937&animation=fadeIn" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1F2937&animation=fadeIn" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F2937&animation=fadeIn" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F2937&animation=fadeIn" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1F2937&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1F2937" />
 </div>
 
 ---
+
+### 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Animasi Ular
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raigusss/Raigusss/output/github-contribution-grid-snake.svg" />
+</p>
