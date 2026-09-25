@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF3D81&height=150&section=header&text=Bagus%20Raihan&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF3D81&height=150&section=header&text=Bagus%2BRaihan%2BAli&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
