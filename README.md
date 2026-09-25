@@ -59,15 +59,15 @@
 
 ---
 
-### Statistik GitHub
+### 📊 Statistik GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
 </p>
-
 ---
 
 ###  Animasi Ular
