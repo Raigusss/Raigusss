@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Halo%2C+gue+Bagus+Raihan+Ali+%F0%9F%91%8B;Ngulik+web+dan+mobile+apps;Belajar+dulu%2C+error+kemudian+%F0%9F%98%85;Sedikit+demi+demikit+jadi+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=C77DFF&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Bagus+Raihan+Ali+%F0%9F%91%8B;Ngulik+web+dan+mobile+apps;Belajar+dulu%2C+error+kemudian+%F0%9F%98%85;Sedikit+demi+demikit+jadi+project)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,7 +20,7 @@
 
 ---
 
-##  Tentang gue
+##  Tentang saya
 
 <div align="center">
 
