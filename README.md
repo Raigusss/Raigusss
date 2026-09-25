@@ -24,9 +24,9 @@
 
 <div align="center">
 
-<h1 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace; font-size: 26px; margin-bottom: 10px;">
+<div style="color: #C77DFF; font-family: 'JetBrains Mono', monospace; font-size: 26px; font-weight: bold; margin-bottom: 10px; border-bottom: none !important;">
   Lebih Dekat Denganku 👋
-</h1>
+</div>
 
 <br>
 
