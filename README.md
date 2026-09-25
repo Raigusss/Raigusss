@@ -40,7 +40,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Selalu+ngulik+web+%26+mobile+apps." />
 
 <!-- Paragraf 4 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Kesalahan+itu+biasa%2C+Coding+selamanya%7E+%E2%98%95" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Kesalahan+itu+biasa%2C+Coding+selamanya%7E" />
 
 </div>
 ---
