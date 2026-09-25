@@ -25,7 +25,7 @@
 <div align="center">
 
 <h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace;">
-  Lebih Dekat Denganku 👋
+  Lebih Dekat Denganku 
 </h3>
 
 <br>
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 Statistik GitHub
+### Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight" />
 </p>
