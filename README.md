@@ -25,12 +25,11 @@
 <div align="center">
 
 <h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace;">
-  Lebih Dekat Denganku 
+  Lebih Dekat Denganku 👋
 </h3>
 
-<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px;">
-  Seorang Mahasiswa Ilmu Komputer di Bogor yang bersemangat menguasai web & mobile apps.<br>
-  Prinsip hidup: <em>Kesalahan itu sederhana, Coding itu abadi~ </em>
+<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
+  Seorang Mahasiswa Ilmu Komputer yang bersemangat menguasai pengembangan web dan mobile apps. My home is in Bogor, Jawa Barat. Selalu menikmati proses ngoprek kode, bereksperimen dengan hal baru, dan percaya pada prinsip: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
 </p>
 
 </div>
