@@ -61,13 +61,19 @@
 
 ### 📊 Statistik GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
+<!-- Animasi Status Deploy -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Total+Project+Deployed%3A+5+%F0%9F%9A%80;Status%3A+Active+Development+%E2%9A%A1;Ready+to+explore+more+techs+%F0%9F%94%A5" />
+
+<br><br>
+
+<!-- Badge Rangkuman Status Deploy & Code -->
+<img src="https://img.shields.io/badge/🚀_Total_Deploy-5_Projects-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/⏳_On_Progress-1_Project-FF3D81?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/🟢_Status-All_Systems_Normal-10B981?style=for-the-badge" />
+
+</div>
 ---
 
 ###  Animasi Ular
