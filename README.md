@@ -25,12 +25,12 @@
 <div align="center">
 
 <h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace;">
-  Lebih Dekat Denganku 👋
+  Lebih Dekat Denganku 
 </h3>
 
 <p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px;">
   Seorang Mahasiswa Ilmu Komputer di Bogor yang bersemangat menguasai web & mobile apps.<br>
-  Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
+  Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ </em>
 </p>
 
 </div>
