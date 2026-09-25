@@ -28,24 +28,24 @@
   Lebih Dekat Denganku 👋
 </h3>
 
-<!-- Paragraf 1 -->
-<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
+<!-- Paragraf 1 (Gradasi Pink & Putih) -->
+<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
   Seorang Mahasiswa Ilmu Komputer Universitas Djuanda.
 </p>
 
-<!-- Paragraf 2 -->
-<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
+<!-- Paragraf 2 (Gradasi Pink & Putih) -->
+<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
   My home is in Bogor, Jawa Barat.
 </p>
 
-<!-- Paragraf 3 -->
-<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
+<!-- Paragraf 3 (Gradasi Pink & Putih) -->
+<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
   Selalu ngulik web & mobile apps.
 </p>
 
-<!-- Paragraf 4 -->
-<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
-  Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
+<!-- Paragraf 4 (Gradasi Pink & Putih) -->
+<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
+  Prinsip hidup: Error is Temporary, Coffee is Eternal~ ☕
 </p>
 
 </div>
