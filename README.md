@@ -61,19 +61,16 @@
 
 ### 📊 Statistik GitHub
 
-<div align="center">
+### 📊 Statistik & Status Deploy
 
-<!-- Animasi Status Deploy -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Total+Project+Deployed%3A+5+%F0%9F%9A%80;Status%3A+Active+Development+%E2%9A%A1;Ready+to+explore+more+techs+%F0%9F%94%A5" />
+| No | Nama Project / Platform | Status Deploy | Keterangan |
+| :---: | :--- | :---: | :--- |
+| 1 | **Bookstore Inventory App** | 🚀 `Deployed` | Web app & database internal (PHP/SQL) |
+| 2 | **Roti-i Bakery Platform** | 🚀 `Deployed` | E-commerce website & mobile payment |
+| 3 | **Ojol Cuci Motor On-Demand** | ⏳ `On Progress` | Business Model Canvas & Prototype |
+| 4 | **Portfolio GitHub** | 🚀 `Deployed` | README Custom & Modern Aesthetic |
 
-<br><br>
-
-<!-- Badge Rangkuman Status Deploy & Code -->
-<img src="https://img.shields.io/badge/🚀_Total_Deploy-5_Projects-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/⏳_On_Progress-1_Project-FF3D81?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/🟢_Status-All_Systems_Normal-10B981?style=for-the-badge" />
-
-</div>
+> **Ringkasan:** 3 Project sudah sukses dipublikasi/deploy, dan 1 project masih dalam tahap pengembangan (*on progress*).
 ---
 
 ###  Animasi Ular
