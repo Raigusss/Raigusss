@@ -30,7 +30,7 @@
 
 <p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px;">
   Seorang Mahasiswa Ilmu Komputer di Bogor yang bersemangat menguasai web & mobile apps.<br>
-  Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ </em>
+  Prinsip hidup: <em>Kesalahan itu sederhana, Coding itu abadi~ </em>
 </p>
 
 </div>
