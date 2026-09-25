@@ -24,19 +24,23 @@
 
 <div align="center">
 
+<h3 style="color: #C77DFF; font-family: 'JetBrains Mono', monospace;">
+  Lebih Dekat Denganku 👋
+</h3>
+
 <br>
 
-<!-- Paragraf 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Seorang+Mahasiswa+Ilmu+Komputer+Universitas+Djuanda." />
+<!-- Paragraf 1 (Ungu) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Seorang+Mahasiswa+Ilmu+Komputer+Universitas+Djuanda." />
 
-<!-- Paragraf 2 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=My+home+is+in+Bogor%2C+Jawa+Barat." />
+<!-- Paragraf 2 (Putih) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=My+home+is+in+Bogor%2C+Jawa+Barat." />
 
-<!-- Paragraf 3 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Selalu+ngulik+web+%26+mobile+apps." />
+<!-- Paragraf 3 (Ungu) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Selalu+ngulik+web+%26+mobile+apps." />
 
-<!-- Paragraf 4 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Kesalahan+itu+biasa%2C+Coding+selamanya~" />
+<!-- Paragraf 4 (Putih) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Kesalahan+itu+biasa%2C+Coding+selamanya~" />
 
 </div>
 ---
