@@ -28,25 +28,19 @@
   Lebih Dekat Denganku 👋
 </h3>
 
-<!-- Paragraf 1 (Gradasi Pink & Putih) -->
-<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
-  Seorang Mahasiswa Ilmu Komputer Universitas Djuanda.
-</p>
+<br>
 
-<!-- Paragraf 2 (Gradasi Pink & Putih) -->
-<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
-  My home is in Bogor, Jawa Barat.
-</p>
+<!-- Paragraf 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=999999999&color=FF3D81&center=true&vCenter=true&width=650&lines=Seorang+Mahasiswa+Ilmu+Komputer+Universitas+Djuanda." />
 
-<!-- Paragraf 3 (Gradasi Pink & Putih) -->
-<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
-  Selalu ngulik web & mobile apps.
-</p>
+<!-- Paragraf 2 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=999999999&color=FF3D81&center=true&vCenter=true&width=650&lines=My+home+is+in+Bogor%2C+Jawa+Barat." />
 
-<!-- Paragraf 4 (Gradasi Pink & Putih) -->
-<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6; background: linear-gradient(90deg, #FF3D81 50%, #ffffff 50%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">
-  Prinsip hidup: Error is Temporary, Coffee is Eternal~ ☕
-</p>
+<!-- Paragraf 3 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=999999999&color=FF3D81&center=true&vCenter=true&width=650&lines=Selalu+ngulik+web+%26+mobile+apps." />
+
+<!-- Paragraf 4 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=999999999&color=FF3D81&center=true&vCenter=true&width=650&lines=Prinsip+hidup%3A+Error+is+Temporary%2C+Coffee+is+Eternal%7E+%E2%98%95" />
 
 </div>
 ---
