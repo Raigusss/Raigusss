@@ -61,16 +61,14 @@
 
 ### 📊 Statistik GitHub
 
-### 📊 Statistik & Status Deploy
 
-| No | Nama Project / Platform | Status Deploy | Keterangan |
-| :---: | :--- | :---: | :--- |
-| 1 | **Bookstore Inventory App** | 🚀 `Deployed` | Web app & database internal (PHP/SQL) |
-| 2 | **Roti-i Bakery Platform** | 🚀 `Deployed` | E-commerce website & mobile payment |
-| 3 | **Ojol Cuci Motor On-Demand** | ⏳ `On Progress` | Business Model Canvas & Prototype |
-| 4 | **Portfolio GitHub** | 🚀 `Deployed` | README Custom & Modern Aesthetic |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=C77DFF" />
+</p>
 
-> **Ringkasan:** 3 Project sudah sukses dipublikasi/deploy, dan 1 project masih dalam tahap pengembangan (*on progress*).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C77DFF" />
+</p>
 ---
 
 ###  Animasi Ular
