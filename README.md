@@ -28,9 +28,10 @@
   Lebih Dekat Denganku 👋
 </h3>
 
-<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px;">
-  Seorang Mahasiswa Ilmu Komputer di Bogor yang bersemangat menguasai web & mobile apps.<br>
-  Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
+<p style="color: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
+  Seorang Mahasiswa Ilmu Komputer Universitas Djuanda.<br>
+  My home is in Bogor, Jawa Barat.<br>
+  Selalu ngulik web & mobile apps. Prinsip hidup: <em>Error is Temporary, Coffee is Eternal~ ☕</em>
 </p>
 
 </div>
