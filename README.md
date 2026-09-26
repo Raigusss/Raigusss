@@ -59,19 +59,11 @@
 
 ---
 
-### Statistik & Aktivitas
+## 📊 Statistik & Aktivitas
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b26&title_color=c77dff&text_color=70c5ce&icon_color=c77dff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=dark&hide_border=true&bg_color=1a1b26&title_color=c77dff&text_color=c0caf5" alt="Top Languages" />
 </div>
 ---
 
