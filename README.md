@@ -59,21 +59,17 @@
 
 ---
 
-### 📊 Statistik GitHub
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=C77DFF" />
-</p>
+### Statistik & Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C77DFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🐍 Animasi Ular
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raigusss/Raigusss/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation" width="100%" />
 </p>
 ---
 
----
-## 🐍  Ular
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Raigusss/Raigusss/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
----
