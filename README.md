@@ -87,7 +87,7 @@
 </div>
 ---
 
-## 🐍 Snake
+## 🐍 Animasi Ular
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raigusss/Raigusss/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation" width="100%" />
 </p>
