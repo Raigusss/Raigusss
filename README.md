@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Statistik & Aktivitas
+##  Statistik & Aktivitas
 
 <div align="center">
   <!-- Baris Animasi Progress / Lingkaran Statistik Kustom -->
@@ -87,7 +87,7 @@
 </div>
 ---
 
-## 🐍 Animasi Ular
+## 🐍 Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raigusss/Raigusss/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation" width="100%" />
 </p>
