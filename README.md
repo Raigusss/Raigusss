@@ -71,7 +71,9 @@
 </p>
 ---
 
-###  Animasi Ular
+---
+## 🐍  Ular
 <div align="center">
   <img src="https://raw.githubusercontent.com/Raigusss/Raigusss/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
+---
