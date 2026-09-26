@@ -61,10 +61,30 @@
 
 ## 📊 Statistik & Aktivitas
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raigusss&style=for-the-badge&color=C77DFF&label=TOTAL+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Raigusss?style=for-the-badge&color=C77DFF&label=Followers&logo=github" alt="GitHub Followers" />
-</p>
+<div align="center">
+  <!-- Baris Animasi Progress / Lingkaran Statistik Kustom -->
+  <img src="https://img.shields.io/badge/PHP-45%25-7b2cbf?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-25%25-9d4edd?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-20%25-c77dff?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-10%25-e0aaff?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Total Commits (2026)</b><br>
+        <img src="https://img.shields.io/badge/Commits-150%2B-C77DFF?style=flat-square&logo=git&logoColor=white" alt="Commits" />
+      </td>
+      <td align="center">
+        <b>Main Stack</b><br>
+        <img src="https://img.shields.io/badge/Web%20%26%20Mobile-Active-9d4edd?style=flat-square&logo=codeforces&logoColor=white" alt="Stack" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🐍 Animasi Ular
