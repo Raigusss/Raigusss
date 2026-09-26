@@ -61,10 +61,18 @@
 
 ### Statistik & Aktivitas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Raigusss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raigusss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🐍 Animasi Ular
